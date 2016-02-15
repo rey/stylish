@@ -1,0 +1,6 @@
+// twitter.com
+//
+// Hide `Moments` tab
+
+li.moments.js-moments-tab { display: none }
+li.suggested-tweet { display: none !important }
