@@ -2,6 +2,7 @@
 //
 // Change theme colours
 
+// hide any brand logos
 .o365cs-nav-header16 .o365cs-nav-tenantLogo img {
   display: none;
 }
