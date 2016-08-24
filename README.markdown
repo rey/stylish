@@ -1,3 +1,3 @@
 # Stylish
 
-A place to put all my custom CSS bits.
+Install [Stylish for Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
