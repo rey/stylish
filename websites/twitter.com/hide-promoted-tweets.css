@@ -1,0 +1,9 @@
+/*
+  twitter.com
+  24/08/16
+  Hide promoted twttr updates (adverts) 
+*/
+
+.promoted-tweet {
+	display: none !important;
+}
