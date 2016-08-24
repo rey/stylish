@@ -1,7 +1,7 @@
 /*
   twitter.com
-   15/02/16
-   Hide Moments tab
+  15/02/16
+  Hide Moments tab
 */
 
 li.moments.js-moments-tab { display: none }
