@@ -1,6 +1,6 @@
 // twitter.com
-//
-// Hide `Moments` tab
+// 15/02/16
+// Hide Moments tab
 
 li.moments.js-moments-tab { display: none }
 li.suggested-tweet { display: none !important }
